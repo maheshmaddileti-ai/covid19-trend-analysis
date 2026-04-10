@@ -80,6 +80,7 @@ Each model outputs `yhat` (forecast), `yhat_lower` and `yhat_upper` (confidence 
 ```
 covid19-trend-analysis/
 │
+├── Covid 19 analysis.ipynb           # Main code for Time series
 ├── covid_19_analysis.py              # Full analysis and forecasting code
 ├── Covid_19_Clean_Complete.csv       # Dataset
 └── README.md                         # Project documentation
